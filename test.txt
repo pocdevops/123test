@@ -1,0 +1,4 @@
+it is a test file from gui
+
+line 3
+line4
